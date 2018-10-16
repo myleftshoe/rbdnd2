@@ -1,13 +1,13 @@
 {
-  "main.css": "/rbdnd/static/css/main.ca1ffb59.chunk.css",
-  "main.js": "/rbdnd/static/js/main.20a8a191.chunk.js",
-  "main.js.map": "/rbdnd/static/js/main.20a8a191.chunk.js.map",
-  "static/js/1.8266fa46.chunk.js": "/rbdnd/static/js/1.8266fa46.chunk.js",
-  "static/js/1.8266fa46.chunk.js.map": "/rbdnd/static/js/1.8266fa46.chunk.js.map",
-  "runtime~main.js": "/rbdnd/static/js/runtime~main.fa61491d.js",
-  "runtime~main.js.map": "/rbdnd/static/js/runtime~main.fa61491d.js.map",
-  "static/css/main.ca1ffb59.chunk.css.map": "/rbdnd/static/css/main.ca1ffb59.chunk.css.map",
-  "index.html": "/rbdnd/index.html",
-  "precache-manifest.2b3103a04ff87c10cd223ad9c9de8293.js": "/rbdnd/precache-manifest.2b3103a04ff87c10cd223ad9c9de8293.js",
-  "service-worker.js": "/rbdnd/service-worker.js"
+  "main.css": "/rbdnd2/static/css/main.ca1ffb59.chunk.css",
+  "main.js": "/rbdnd2/static/js/main.20a8a191.chunk.js",
+  "main.js.map": "/rbdnd2/static/js/main.20a8a191.chunk.js.map",
+  "static/js/1.8266fa46.chunk.js": "/rbdnd2/static/js/1.8266fa46.chunk.js",
+  "static/js/1.8266fa46.chunk.js.map": "/rbdnd2/static/js/1.8266fa46.chunk.js.map",
+  "runtime~main.js": "/rbdnd2/static/js/runtime~main.b146121f.js",
+  "runtime~main.js.map": "/rbdnd2/static/js/runtime~main.b146121f.js.map",
+  "static/css/main.ca1ffb59.chunk.css.map": "/rbdnd2/static/css/main.ca1ffb59.chunk.css.map",
+  "index.html": "/rbdnd2/index.html",
+  "precache-manifest.717cedd516922585c73128e389976fcd.js": "/rbdnd2/precache-manifest.717cedd516922585c73128e389976fcd.js",
+  "service-worker.js": "/rbdnd2/service-worker.js"
 }
