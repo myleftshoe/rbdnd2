@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/rbdnd2/static/css/main.8b76bceb.chunk.css"
   },
   {
-    "revision": "9716e11dcb987d34291ee96aa6621815",
+    "revision": "7f729318b8165c79bb85b738e9515556",
     "url": "/rbdnd2/index.html"
   }
 ];
